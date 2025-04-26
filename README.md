@@ -61,7 +61,7 @@ Any use, reproduction, or distribution of such derivatives without prior express
 ---
 
 
-## Content Summary
+## List of Protected Elements
 
 - **LightningDevs** – Name and derivatives
 - **UnSeen** – Name and derivatives
@@ -70,6 +70,15 @@ Any use, reproduction, or distribution of such derivatives without prior express
 - **Orca Profile Studio** – Name and derivatives
 - **OPS** – Name and derivatives
 
+---
+
+## Update Validity
+
+Any addition, modification, or removal of an element within the "Protected Works" section is considered effective immediately upon the corresponding commit being recorded in this repository.
+
+Each commit timestamp constitutes a public and verifiable proof of the update's existence and date.
+
+---
 
 ## Contact
 
