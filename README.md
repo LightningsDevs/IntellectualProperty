@@ -69,6 +69,7 @@ Any use, reproduction, or distribution of such derivatives without prior express
 - "**Make the world more Open**" – Slogan
 - **Orca Profile Studio** – Name and derivatives
 - **OPS** – Name and derivatives
+- **ToolBolt** - Name and derivatives
 
 ---
 
